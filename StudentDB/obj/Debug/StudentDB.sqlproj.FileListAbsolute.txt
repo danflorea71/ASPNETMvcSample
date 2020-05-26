@@ -1,0 +1,5 @@
+C:\Users\flordn\source\repos\ASPNETMvcSample\StudentDB\bin\Debug\StudentDB.dacpac
+C:\Users\flordn\source\repos\ASPNETMvcSample\StudentDB\bin\Debug\StudentDB.dll
+C:\Users\flordn\source\repos\ASPNETMvcSample\StudentDB\bin\Debug\StudentDB.pdb
+C:\Users\flordn\source\repos\ASPNETMvcSample\StudentDB\obj\Debug\StudentDB.dll
+C:\Users\flordn\source\repos\ASPNETMvcSample\StudentDB\obj\Debug\StudentDB.pdb
